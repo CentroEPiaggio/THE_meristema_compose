@@ -33,7 +33,7 @@ services:
       # - /tmp/.docker.xauth:/tmp/.docker.xauth:rw
       - ~/.bash_history:/home/ros/.bash_history
       - ./THE_manipulation_ros2:/home/ros/the_manipulation_ws/
-      - ./THE_manipulation_ros2/config:/home/ros/the_manipulation_ws/ur_config
+      - ./THE_manipulation_ros2/ur_config:/home/ros/the_manipulation_ws/ur_config
       - /dev/nvidia0:/dev/nvidia0
       - /dev/nvidiactl:/dev/nvidiactl
       - /dev/nvidia-modeset:/dev/nvidia-modeset
