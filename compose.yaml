@@ -114,6 +114,7 @@ services:
       - /dev/video5:/dev/video5
       - /dev/video6:/dev/video6
       - /dev/video7:/dev/video7
+      - /dev:/dev
       
       
       
