@@ -1,6 +1,6 @@
 [submodule "THE_vision_ros2"]
 	path = THE_vision_ros2
-	url = https://github.com/Cionix90/THE_vision_ros2.git
+	url = https://github.com/CentroEPiaggio/THE_vision_ros2.git
 [submodule "THE_manipulation_ros2"]
 	path = THE_manipulation_ros2
-	url = https://github.com/Cionix90/THE_manipulation_ros2.git
+	url = https://github.com/CentroEPiaggio/THE_manipulation_ros2.git
